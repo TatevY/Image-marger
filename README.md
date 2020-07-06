@@ -13,7 +13,13 @@ For running code in Pyhton3 editor please install Pillow module.<br>
 # How to use
 
 Run code in some Python3 editor and follow commands in command line. You should enter option, images names and also some parameters.<br>
-<em>-See usage in youtube video.<em/>
+<em>-See usage in youtube video.<em/><br>
+<em>https://youtu.be/_D1DkfCE61U<em/>
 
 
 # Basic examples.
+<strong>First option</strong>
+![ex1](https://user-images.githubusercontent.com/37843678/86576514-e284cc00-bf89-11ea-8ab6-fa973ac75ceb.png)
+<strong>Second option<strong/>
+![ex2](https://user-images.githubusercontent.com/37843678/86576518-e44e8f80-bf89-11ea-849c-11470a00f3c9.png)
+
