@@ -6,4 +6,6 @@
 <li>Merging two images with same size, contains transparency.</li>
 </ul>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+# How to use
+
+Run code in some Python3 editor and follow commands in command line. You should enter option, images names and also some parameters.
